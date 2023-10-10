@@ -1,0 +1,63 @@
+body{
+    background-color: black;
+}
+
+
+
+header {
+    /* background-color: white; */
+  }
+  
+  .hg {
+    border: 1px;
+    padding: 20px;
+    text-align: center;
+    border-collapse: collapse;
+    word-spacing: 4px;
+    margin: auto;
+    background-color: rgb(27, 27, 27);
+    
+    
+}
+th,td{
+    color: white;
+    padding: 4px 4px 4px 4px;
+}
+  .heading{
+    color: white;
+  }
+  
+  .container {
+    background-color: rgb(26, 27, 27);
+  }
+  
+  .logo {
+    margin-left: 14%;
+  }
+  
+  .ha {
+    text-align: center;
+    font-size: 25px;
+  }
+  
+  .button {
+    background-color: rgb(255, 255, 255);
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    padding: 8px;
+    float: right;
+    margin-top: 15px;
+    /* margin-left: 20%; */
+    margin-right: 16%;
+    border-radius: 5px;
+  }
+  
+  .ftr {
+    height: 20px;
+    text-align: center;
+    color: aliceblue;
+    background-color:  rgb(26, 27, 27);
+    margin-top: 50px;
+  }
+  
